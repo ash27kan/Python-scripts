@@ -1,7 +1,7 @@
 import requests
 import time
 
-path = "/home/ash27kan/Desktop/macs.txt"
+path = "/home/user/Desktop/macs.txt"
 
 def loader(path):
     with open(path, "r") as x:
